@@ -1,4 +1,7 @@
 # ESP32 SSD1306 OLED Debug Display
+![ESP32](https://img.shields.io/badge/ESP32-C3-blue)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-v5.x-green)
+![License](https://img.shields.io/badge/license-MIT-orange)
 
 A lightweight OLED debug console for embedded systems using an **ESP32-C3** and an **SSD1306 128×64 OLED display**.
 
