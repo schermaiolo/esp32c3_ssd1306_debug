@@ -1,0 +1,15 @@
+# ESP-IDF build output
+build/
+
+# ESP-IDF configuration
+sdkconfig
+sdkconfig.old
+
+# Generated documentation
+docs/html/
+docs/latex/
+
+# Editor files
+.vscode/
+*.swp
+*.swo
